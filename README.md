@@ -15,3 +15,4 @@
 # Brewing tips
 - [4 Ways to Perfect your Hario V60 Brewing](https://brewstr.coffee/4-ways-to-perfect-your-hario-v60-brewing/)
 - [How to Make the Perfect Espresso Martini](https://brewstr.coffee/how-to-make-the-perfect-espresso-martini/)
+- [Period Table of Brewing Coffee](The Periodic Table of Brewing Coffee)
